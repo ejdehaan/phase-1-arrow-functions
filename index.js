@@ -4,7 +4,7 @@ console.log(squares); //=> [1,4,9]
 console.log(nums); //=> [1,2,3]
 */
 
-const divide = (params1, params2) => params1 / params2
+const divide = (number1, number2) => 2000 / 100
 
 const square = number => number * number
 
